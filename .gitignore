@@ -1,3 +1,4 @@
 *.pyc
 .tox
 ijson.egg-info
+dist
